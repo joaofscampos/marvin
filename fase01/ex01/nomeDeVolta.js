@@ -1,6 +1,6 @@
 function nomeDeVolta() {
-    console.log("marvin")
-    var marvin = ("o ändroide paranoide")
-    return console.log("o androide paranoide")
+    console.log("Marvin")
+    var marvin = ("o andróide paranóide")
+    return console.log("o andróide paranóide")
 }
 nomeDeVolta()
