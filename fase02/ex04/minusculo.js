@@ -1,6 +1,7 @@
 function minusculo(joao){
-     var n = Joao;
-     var a = n.substring(0,1);
-     var b = a.toLowerCase();
-     return b
- }  
+      var n =  joao ;
+      var a = n.substr(0,1);
+      var b = a.toLowerCase();
+      return b
+  }
+  
