@@ -1,4 +1,4 @@
-function iniciais (palavras){
-    var anyString = "mochileiro";
-    return anyString.substring(0,3)
+function iniciais(palavra){
+    var anyString = palavra;
+ return (anyString.substring(0,3))
 }
